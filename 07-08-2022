@@ -1,0 +1,71 @@
+// function bar(){
+//     console.log("bar");
+// }
+
+
+
+// function foo(){
+//     console.log("foo");
+//     bar();
+// }
+
+// foo();
+
+
+
+// ============================
+
+
+// function avarage(num1, num2, num3){
+//     return num1 + num2 + num3;
+// };
+
+// const count1 = avarage(2,4,5);
+// console.log(count1 / 3);
+
+===============================
+
+// function maxArray(numbers){
+//         let largest = numbers[0];
+//         for(let i = 0; i < numbers.length; i++){
+//             const index = i;
+//             const element = numbers[index];
+//             if(element > largest){
+//                 largest = element;
+//             }
+//         }
+//     return largest;
+// }
+// const myArray = [12, 25, 55, 887, 66];
+// const totalArray = maxArray(myArray);
+// console.log(totalArray);
+
+==============================================
+
+// function maxAray(numbers){
+//     let largest = numbers[0];
+//     for (let i = 0; i < numbers.length; i++){
+//         const index = i;
+//         const element = numbers[index];
+//         if(element > largest){
+//             largest = element;
+//         }
+//     }
+//     return largest;
+// }
+
+// const myArray = [12, 25, 55, 887, 66];
+// const totalArray = maxAray(myArray);
+// console.log(totalArray);
+
+// ==================================
+
+// const arr = [12, 25, 55, 887, 66];
+// const max = Math.max(...arr);
+// console.log(max);
+
+// ===========================
+
+
+// const min = Math.min(2, 4, 6);
+// console.log(min);
