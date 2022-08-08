@@ -1,0 +1,35 @@
+// const persons = ["raihan", "rahat", "main", "muntary", "raihan", "rahat", "main", "muntary"];
+// function filtering(names){
+//     const array = [];
+//     for(let i = 0; i < names.length; i++){
+//         const index = names[i]; 
+//         if(array.includes(index) === false){
+//             array.push(index);
+//         };
+//     };
+//     return array;
+// };
+// const add = filtering(persons);
+// console.log(add);
+
+
+
+
+// ====================================
+
+
+// const friends = ['hasan', 'habib', 'rehan', 'joy', 'hasan', 'habib', 'rehan', 'joy'];
+
+// function removeFriend(names){
+//     const path = [];
+//     for (let i = 0; i < names.length; i++){
+//         const element = names[i];
+//         if (path.includes(element) === false) {
+//             path.push(element);            
+//         }
+//     }
+//     return path;
+// }
+
+// const close =removeFriend(friends);
+// console.log(close);
